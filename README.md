@@ -1,14 +1,10 @@
-![image](https://github.com/verz666/Lab7Web/assets/115523263/38d6e7c3-d790-4e70-9519-af2af2501eca)
+# Lab7Web
 
-![image](https://github.com/verz666/Lab7Web/assets/115523263/003026be-3d60-4f6f-8d5b-c3b16e3f12d1)
+## Pertanyaan dan Tugas
 
-## Buat file baru dengan nama php_dasar.php
+Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan
+nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung
+umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
+berbeda-beda sesuai pilihan pekerjaan.
 
-![image](https://github.com/verz666/Lab7Web/assets/115523263/15ba666f-db47-4b66-8820-31c5f8c69624)
-
-## Menambahkan variable pada program.
-
-![image](https://github.com/verz666/Lab7Web/assets/115523263/0a00ce11-9715-4a06-adaf-64d0522b2b09)
-
-## Predefine Variable $_GET
-
+![image](https://github.com/verz666/Lab7Web/assets/115523263/426e4419-0c98-4c08-8689-a4415e6d9fa1)
